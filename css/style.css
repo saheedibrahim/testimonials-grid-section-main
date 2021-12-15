@@ -23,8 +23,8 @@ h2{
     grid-template-rows: repeat(39, 1fr);
 }
 .grid-container{
-    grid-column: 4/18;
-    grid-row: 4/37;
+    grid-column: 3/19;
+    grid-row: 3/37;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
 }
@@ -63,8 +63,8 @@ h2{
     color: white;
 }
 .grid-container > div {
-    padding: 25px;
-    margin: 15px;   
+    padding: 30px;
+    margin: 12px;   
     border-radius: 10px;
 }
 @media (max-width: 600px) {
