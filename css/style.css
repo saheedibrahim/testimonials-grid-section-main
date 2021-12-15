@@ -72,23 +72,23 @@ h2{
         grid-row: 1/37;
     }
     .daniel{
-        grid-column: 1/12;
+        grid-column: 1/13;
         grid-row: 1;
     }
     .jonathan{
-        grid-column: 1/12;
+        grid-column: 1/13;
         grid-row: 2;
     }
     .jeanette{
-        grid-column: 1/12;
+        grid-column: 1/13;
         grid-row: 3;
     }
     .patrick{
-        grid-column: 1/12;
+        grid-column: 1/13;
         grid-row: 4;
     }
     .kira{
-        grid-column: 1/12;
+        grid-column: 1/13;
         grid-row: 5;
     }
 }
